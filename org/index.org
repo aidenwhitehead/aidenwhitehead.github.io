@@ -1,0 +1,11 @@
+#+TITLE: Aiden Whitehead
+* Info
+- This site was generated using Emacs and org-mode.  Soon, I will try
+  to set up some more complex logic using Elisp (which I am currently
+  learning).
+- I am currently learning C (which has been decently successful),
+  Scheme, and the aforementioned Elisp.  This is in addition to reading
+  Dr. Tanenbaum's wonderful book /Operating Systems: Design and
+  Implementation/, ed. 1 (the original cause for which I learned C).  If
+  any of the toy programs I write seem to make use of strangely outdated
+  practices, this is probably why.
